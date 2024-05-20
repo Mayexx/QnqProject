@@ -1,0 +1,60 @@
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.cart-table {
+    margin-bottom: 20px;
+    overflow-x: auto;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fff;
+    border-radius: 8px;
+}
+th, td {
+    padding: 12px;
+    text-align: center;
+}
+th {
+    background-color: #f2f2f2;
+}
+.product-image {
+    width: 100px;
+    height: auto;
+}
+.btn btn-danger {
+    background-color: #371B58;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+.btn-remove:hover {
+    background-color: #7858A6;
+}
+.total-price {
+    text-align: right;
+}
+.total-price h2 {
+    font-size: 24px;
+    font-weight: bold;
+} 
+.but a{
+    background-color: #371B58;
+}
+.but a:hover{
+    background-color: #7858A6;
+}
+
+
